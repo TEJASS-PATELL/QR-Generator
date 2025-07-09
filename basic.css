@@ -31,7 +31,7 @@ h3 {
 
 input {
     width: 100%;
-    padding: 12px;
+    padding: 10px;
     border: 2px solid #000000;
     border-radius: 8px;
     outline: none;
@@ -97,7 +97,7 @@ input {
     color: white;
     background-color: rgb(0, 0, 0);
 }
-/* Error Effect */
+
 .error{
     animation: shake 0.2s linear 10;
     border-color: red !important;
